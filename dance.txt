@@ -1,0 +1,6 @@
+Izquierda
+Derecha
+Arriba
+Abajo
+Vuelta 
+Mueve las caderas
