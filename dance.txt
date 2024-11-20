@@ -2,5 +2,6 @@ Izquierda
 Derecha
 Arriba
 Abajo
-Vuelta 
+Vuelta
+Twirl your hands.
 Mueve las caderas
